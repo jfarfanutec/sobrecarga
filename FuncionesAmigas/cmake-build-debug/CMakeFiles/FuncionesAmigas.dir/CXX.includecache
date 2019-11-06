@@ -1,0 +1,24 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/jfarfan/CLionProjects/sobrecarga/FuncionesAmigas/Cuadrado.h
+iostream
+-
+Rectangulo.h
+C:/Users/jfarfan/CLionProjects/sobrecarga/FuncionesAmigas/Rectangulo.h
+
+C:/Users/jfarfan/CLionProjects/sobrecarga/FuncionesAmigas/Rectangulo.h
+
+C:/Users/jfarfan/CLionProjects/sobrecarga/FuncionesAmigas/main.cpp
+iostream
+-
+Rectangulo.h
+C:/Users/jfarfan/CLionProjects/sobrecarga/FuncionesAmigas/Rectangulo.h
+Cuadrado.h
+C:/Users/jfarfan/CLionProjects/sobrecarga/FuncionesAmigas/Cuadrado.h
+
