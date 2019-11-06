@@ -7,8 +7,7 @@
 #include <iostream>
 #include "Rectangulo.h"
 using namespace std;
-class Cuadrado
-{
+class Cuadrado {
 private:
     int lado;
 public:
@@ -17,7 +16,7 @@ public:
     }
     void mostrar(Rectangulo Rect)
     {
-        cout<<"\nLargo : "<<Rect.largo;   //Puede acceder a los atributos privados
+        cout<<"\nLargo : "<<Rect.largo;   //Puede acceder a los atributos privados de la clase Rectangulo
         cout<<"\nAncho : "<<Rect.ancho;
         cout<<"\nLado : "<<lado;
     }

@@ -1,0 +1,16 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/jfarfan/CLionProjects/sobrecarga/SobrecargaOperadoresV1/Nota.h
+
+C:/Users/jfarfan/CLionProjects/sobrecarga/SobrecargaOperadoresV1/main.cpp
+iostream
+-
+Nota.h
+C:/Users/jfarfan/CLionProjects/sobrecarga/SobrecargaOperadoresV1/Nota.h
+
