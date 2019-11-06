@@ -1,0 +1,22 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/jfarfan/CLionProjects/sobrecarga/sobrecargav2/Entero.cpp
+Entero.h
+C:/Users/jfarfan/CLionProjects/sobrecarga/sobrecargav2/Entero.h
+
+C:/Users/jfarfan/CLionProjects/sobrecarga/sobrecargav2/Entero.h
+iostream
+-
+
+C:/Users/jfarfan/CLionProjects/sobrecarga/sobrecargav2/main.cpp
+iostream
+-
+Entero.h
+C:/Users/jfarfan/CLionProjects/sobrecarga/sobrecargav2/Entero.h
+
