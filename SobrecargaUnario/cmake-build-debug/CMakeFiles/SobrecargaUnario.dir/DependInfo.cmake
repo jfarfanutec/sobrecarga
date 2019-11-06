@@ -4,6 +4,7 @@ set(CMAKE_DEPENDS_LANGUAGES
   )
 # The set of files for implicit dependencies of each language:
 set(CMAKE_DEPENDS_CHECK_CXX
+  "C:/Users/jfarfan/CLionProjects/sobrecarga/SobrecargaUnario/Reloj.cpp" "C:/Users/jfarfan/CLionProjects/sobrecarga/SobrecargaUnario/cmake-build-debug/CMakeFiles/SobrecargaUnario.dir/Reloj.cpp.obj"
   "C:/Users/jfarfan/CLionProjects/sobrecarga/SobrecargaUnario/main.cpp" "C:/Users/jfarfan/CLionProjects/sobrecarga/SobrecargaUnario/cmake-build-debug/CMakeFiles/SobrecargaUnario.dir/main.cpp.obj"
   )
 set(CMAKE_CXX_COMPILER_ID "GNU")

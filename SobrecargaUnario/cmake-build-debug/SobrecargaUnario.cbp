@@ -80,6 +80,12 @@
 				</MakeCommands>
 			</Target>
 		</Build>
+		<Unit filename="C:/Users/jfarfan/CLionProjects/sobrecarga/SobrecargaUnario/Reloj.cpp">
+			<Option target="SobrecargaUnario"/>
+		</Unit>
+		<Unit filename="C:/Users/jfarfan/CLionProjects/sobrecarga/SobrecargaUnario/Reloj.h">
+			<Option target="SobrecargaUnario"/>
+		</Unit>
 		<Unit filename="C:/Users/jfarfan/CLionProjects/sobrecarga/SobrecargaUnario/main.cpp">
 			<Option target="SobrecargaUnario"/>
 		</Unit>

@@ -3,4 +3,4 @@ project(SobrecargaUnario)
 
 set(CMAKE_CXX_STANDARD 14)
 
-add_executable(SobrecargaUnario main.cpp)
+add_executable(SobrecargaUnario main.cpp Reloj.cpp Reloj.h)

@@ -122,6 +122,33 @@ SobrecargaUnario/fast:
 	$(MAKE) -f CMakeFiles\SobrecargaUnario.dir\build.make CMakeFiles/SobrecargaUnario.dir/build
 .PHONY : SobrecargaUnario/fast
 
+Reloj.obj: Reloj.cpp.obj
+
+.PHONY : Reloj.obj
+
+# target to build an object file
+Reloj.cpp.obj:
+	$(MAKE) -f CMakeFiles\SobrecargaUnario.dir\build.make CMakeFiles/SobrecargaUnario.dir/Reloj.cpp.obj
+.PHONY : Reloj.cpp.obj
+
+Reloj.i: Reloj.cpp.i
+
+.PHONY : Reloj.i
+
+# target to preprocess a source file
+Reloj.cpp.i:
+	$(MAKE) -f CMakeFiles\SobrecargaUnario.dir\build.make CMakeFiles/SobrecargaUnario.dir/Reloj.cpp.i
+.PHONY : Reloj.cpp.i
+
+Reloj.s: Reloj.cpp.s
+
+.PHONY : Reloj.s
+
+# target to generate assembly for a file
+Reloj.cpp.s:
+	$(MAKE) -f CMakeFiles\SobrecargaUnario.dir\build.make CMakeFiles/SobrecargaUnario.dir/Reloj.cpp.s
+.PHONY : Reloj.cpp.s
+
 main.obj: main.cpp.obj
 
 .PHONY : main.obj
@@ -158,6 +185,9 @@ help:
 	@echo ... SobrecargaUnario
 	@echo ... edit_cache
 	@echo ... rebuild_cache
+	@echo ... Reloj.obj
+	@echo ... Reloj.i
+	@echo ... Reloj.s
 	@echo ... main.obj
 	@echo ... main.i
 	@echo ... main.s
