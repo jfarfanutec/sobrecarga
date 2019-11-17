@@ -1,0 +1,470 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CMakeRunConfigurationManager" shouldGenerate="true" shouldDeleteObsolete="true">
+    <generated>
+      <config projectName="sobrecargaFuncion" targetName="sobrecargaFuncion" />
+    </generated>
+  </component>
+  <component name="CMakeSettings">
+    <configurations>
+      <configuration PROFILE_NAME="Debug" CONFIG_NAME="Debug" />
+    </configurations>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="3a8a5adb-8c2b-4734-ba46-ab0c9ba737c1" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../FuncionesAmigas/Tipos.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../operadorCorchete/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../operadorCorchete/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../operadorCorchete/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../operadorCorchete/.idea/operadorCorchete.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../operadorCorchete/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../operadorCorchete/CMatrizVector.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../operadorCorchete/CVector.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../operadorCorchete/cmake-build-debug/CMakeFiles/3.15.3/CMakeSystem.cmake" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../operadorCorchete/cmake-build-debug/CMakeFiles/3.15.3/CompilerIdC/CMakeCCompilerId.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../operadorCorchete/cmake-build-debug/CMakeFiles/CMakeOutput.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../operadorCorchete/cmake-build-debug/CMakeFiles/clion-environment.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sobrecargaFuncion.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CMakeLists.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeCache.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/3.15.3/CMakeCCompiler.cmake" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/3.15.3/CMakeCXXCompiler.cmake" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/3.15.3/CMakeDetermineCompilerABI_C.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/3.15.3/CMakeDetermineCompilerABI_CXX.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/3.15.3/CMakeRCCompiler.cmake" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/3.15.3/CMakeSystem.cmake" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/3.15.3/CompilerIdC/CMakeCCompilerId.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/3.15.3/CompilerIdC/a.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/3.15.3/CompilerIdCXX/CMakeCXXCompilerId.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/3.15.3/CompilerIdCXX/a.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/CMakeDirectoryInformation.cmake" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/CMakeOutput.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Makefile.cmake" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Makefile2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/TargetDirectories.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/clion-environment.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/clion-log.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/cmake.check_cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/progress.marks" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/sobrecargaFuncion.dir/CXX.includecache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/sobrecargaFuncion.dir/DependInfo.cmake" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/sobrecargaFuncion.dir/build.make" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/sobrecargaFuncion.dir/cmake_clean.cmake" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/sobrecargaFuncion.dir/depend.internal" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/sobrecargaFuncion.dir/depend.make" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/sobrecargaFuncion.dir/flags.make" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/sobrecargaFuncion.dir/link.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/sobrecargaFuncion.dir/linklibs.rsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/sobrecargaFuncion.dir/main.cpp.obj" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/sobrecargaFuncion.dir/objects.a" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/sobrecargaFuncion.dir/objects1.rsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/sobrecargaFuncion.dir/progress.make" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cmake-build-debug/Makefile" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cmake-build-debug/cmake_install.cmake" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cmake-build-debug/sobrecargaFuncion.cbp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cmake-build-debug/sobrecargaFuncion.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/main.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sobrecargaFuncionEjemplo/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sobrecargaFuncionEjemplo/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sobrecargaFuncionEjemplo/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sobrecargaFuncionEjemplo/.idea/sobrecargaFuncionEjemplo.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sobrecargaFuncionEjemplo/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sobrecargaFuncionEjemplo/CMakeLists.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sobrecargaFuncionEjemplo/CVector.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sobrecargaFuncionEjemplo/cmake-build-debug/CMakeCache.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sobrecargaFuncionEjemplo/cmake-build-debug/CMakeFiles/3.15.3/CMakeCCompiler.cmake" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sobrecargaFuncionEjemplo/cmake-build-debug/CMakeFiles/3.15.3/CMakeCXXCompiler.cmake" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sobrecargaFuncionEjemplo/cmake-build-debug/CMakeFiles/3.15.3/CMakeDetermineCompilerABI_C.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sobrecargaFuncionEjemplo/cmake-build-debug/CMakeFiles/3.15.3/CMakeDetermineCompilerABI_CXX.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sobrecargaFuncionEjemplo/cmake-build-debug/CMakeFiles/3.15.3/CMakeRCCompiler.cmake" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sobrecargaFuncionEjemplo/cmake-build-debug/CMakeFiles/3.15.3/CMakeSystem.cmake" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sobrecargaFuncionEjemplo/cmake-build-debug/CMakeFiles/3.15.3/CompilerIdC/CMakeCCompilerId.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sobrecargaFuncionEjemplo/cmake-build-debug/CMakeFiles/3.15.3/CompilerIdC/a.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sobrecargaFuncionEjemplo/cmake-build-debug/CMakeFiles/3.15.3/CompilerIdCXX/CMakeCXXCompilerId.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sobrecargaFuncionEjemplo/cmake-build-debug/CMakeFiles/3.15.3/CompilerIdCXX/a.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sobrecargaFuncionEjemplo/cmake-build-debug/CMakeFiles/CMakeDirectoryInformation.cmake" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sobrecargaFuncionEjemplo/cmake-build-debug/CMakeFiles/CMakeOutput.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sobrecargaFuncionEjemplo/cmake-build-debug/CMakeFiles/Makefile.cmake" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sobrecargaFuncionEjemplo/cmake-build-debug/CMakeFiles/Makefile2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sobrecargaFuncionEjemplo/cmake-build-debug/CMakeFiles/TargetDirectories.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sobrecargaFuncionEjemplo/cmake-build-debug/CMakeFiles/clion-environment.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sobrecargaFuncionEjemplo/cmake-build-debug/CMakeFiles/clion-log.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sobrecargaFuncionEjemplo/cmake-build-debug/CMakeFiles/cmake.check_cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sobrecargaFuncionEjemplo/cmake-build-debug/CMakeFiles/progress.marks" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sobrecargaFuncionEjemplo/cmake-build-debug/CMakeFiles/sobrecargaFuncionEjemplo.dir/CXX.includecache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sobrecargaFuncionEjemplo/cmake-build-debug/CMakeFiles/sobrecargaFuncionEjemplo.dir/DependInfo.cmake" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sobrecargaFuncionEjemplo/cmake-build-debug/CMakeFiles/sobrecargaFuncionEjemplo.dir/build.make" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sobrecargaFuncionEjemplo/cmake-build-debug/CMakeFiles/sobrecargaFuncionEjemplo.dir/cmake_clean.cmake" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sobrecargaFuncionEjemplo/cmake-build-debug/CMakeFiles/sobrecargaFuncionEjemplo.dir/depend.internal" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sobrecargaFuncionEjemplo/cmake-build-debug/CMakeFiles/sobrecargaFuncionEjemplo.dir/depend.make" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sobrecargaFuncionEjemplo/cmake-build-debug/CMakeFiles/sobrecargaFuncionEjemplo.dir/flags.make" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sobrecargaFuncionEjemplo/cmake-build-debug/CMakeFiles/sobrecargaFuncionEjemplo.dir/link.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sobrecargaFuncionEjemplo/cmake-build-debug/CMakeFiles/sobrecargaFuncionEjemplo.dir/linklibs.rsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sobrecargaFuncionEjemplo/cmake-build-debug/CMakeFiles/sobrecargaFuncionEjemplo.dir/main.cpp.obj" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sobrecargaFuncionEjemplo/cmake-build-debug/CMakeFiles/sobrecargaFuncionEjemplo.dir/objects.a" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sobrecargaFuncionEjemplo/cmake-build-debug/CMakeFiles/sobrecargaFuncionEjemplo.dir/objects1.rsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sobrecargaFuncionEjemplo/cmake-build-debug/CMakeFiles/sobrecargaFuncionEjemplo.dir/progress.make" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sobrecargaFuncionEjemplo/cmake-build-debug/Makefile" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sobrecargaFuncionEjemplo/cmake-build-debug/cmake_install.cmake" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sobrecargaFuncionEjemplo/cmake-build-debug/sobrecargaFuncionEjemplo.cbp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sobrecargaFuncionEjemplo/cmake-build-debug/sobrecargaFuncionEjemplo.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sobrecargaFuncionEjemplo/main.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sobrecargaFuncionEjemplo2/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sobrecargaFuncionEjemplo2/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sobrecargaFuncionEjemplo2/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sobrecargaFuncionEjemplo2/.idea/sobrecargaFuncionEjemplo2.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sobrecargaFuncionEjemplo2/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sobrecargaFuncionEjemplo2/CMakeLists.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sobrecargaFuncionEjemplo2/CVector.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sobrecargaFuncionEjemplo2/cmake-build-debug/CMakeCache.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sobrecargaFuncionEjemplo2/cmake-build-debug/CMakeFiles/3.15.3/CMakeCCompiler.cmake" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sobrecargaFuncionEjemplo2/cmake-build-debug/CMakeFiles/3.15.3/CMakeCXXCompiler.cmake" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sobrecargaFuncionEjemplo2/cmake-build-debug/CMakeFiles/3.15.3/CMakeDetermineCompilerABI_C.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sobrecargaFuncionEjemplo2/cmake-build-debug/CMakeFiles/3.15.3/CMakeDetermineCompilerABI_CXX.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sobrecargaFuncionEjemplo2/cmake-build-debug/CMakeFiles/3.15.3/CMakeRCCompiler.cmake" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sobrecargaFuncionEjemplo2/cmake-build-debug/CMakeFiles/3.15.3/CMakeSystem.cmake" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sobrecargaFuncionEjemplo2/cmake-build-debug/CMakeFiles/3.15.3/CompilerIdC/CMakeCCompilerId.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sobrecargaFuncionEjemplo2/cmake-build-debug/CMakeFiles/3.15.3/CompilerIdC/a.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sobrecargaFuncionEjemplo2/cmake-build-debug/CMakeFiles/3.15.3/CompilerIdCXX/CMakeCXXCompilerId.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sobrecargaFuncionEjemplo2/cmake-build-debug/CMakeFiles/3.15.3/CompilerIdCXX/a.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sobrecargaFuncionEjemplo2/cmake-build-debug/CMakeFiles/CMakeDirectoryInformation.cmake" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sobrecargaFuncionEjemplo2/cmake-build-debug/CMakeFiles/CMakeOutput.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sobrecargaFuncionEjemplo2/cmake-build-debug/CMakeFiles/Makefile.cmake" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sobrecargaFuncionEjemplo2/cmake-build-debug/CMakeFiles/Makefile2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sobrecargaFuncionEjemplo2/cmake-build-debug/CMakeFiles/TargetDirectories.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sobrecargaFuncionEjemplo2/cmake-build-debug/CMakeFiles/clion-environment.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sobrecargaFuncionEjemplo2/cmake-build-debug/CMakeFiles/clion-log.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sobrecargaFuncionEjemplo2/cmake-build-debug/CMakeFiles/cmake.check_cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sobrecargaFuncionEjemplo2/cmake-build-debug/CMakeFiles/progress.marks" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sobrecargaFuncionEjemplo2/cmake-build-debug/CMakeFiles/sobrecargaFuncionEjemplo2.dir/CXX.includecache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sobrecargaFuncionEjemplo2/cmake-build-debug/CMakeFiles/sobrecargaFuncionEjemplo2.dir/DependInfo.cmake" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sobrecargaFuncionEjemplo2/cmake-build-debug/CMakeFiles/sobrecargaFuncionEjemplo2.dir/build.make" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sobrecargaFuncionEjemplo2/cmake-build-debug/CMakeFiles/sobrecargaFuncionEjemplo2.dir/cmake_clean.cmake" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sobrecargaFuncionEjemplo2/cmake-build-debug/CMakeFiles/sobrecargaFuncionEjemplo2.dir/depend.internal" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sobrecargaFuncionEjemplo2/cmake-build-debug/CMakeFiles/sobrecargaFuncionEjemplo2.dir/depend.make" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sobrecargaFuncionEjemplo2/cmake-build-debug/CMakeFiles/sobrecargaFuncionEjemplo2.dir/flags.make" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sobrecargaFuncionEjemplo2/cmake-build-debug/CMakeFiles/sobrecargaFuncionEjemplo2.dir/link.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sobrecargaFuncionEjemplo2/cmake-build-debug/CMakeFiles/sobrecargaFuncionEjemplo2.dir/linklibs.rsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sobrecargaFuncionEjemplo2/cmake-build-debug/CMakeFiles/sobrecargaFuncionEjemplo2.dir/main.cpp.obj" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sobrecargaFuncionEjemplo2/cmake-build-debug/CMakeFiles/sobrecargaFuncionEjemplo2.dir/objects.a" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sobrecargaFuncionEjemplo2/cmake-build-debug/CMakeFiles/sobrecargaFuncionEjemplo2.dir/objects1.rsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sobrecargaFuncionEjemplo2/cmake-build-debug/CMakeFiles/sobrecargaFuncionEjemplo2.dir/progress.make" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sobrecargaFuncionEjemplo2/cmake-build-debug/Makefile" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sobrecargaFuncionEjemplo2/cmake-build-debug/cmake_install.cmake" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sobrecargaFuncionEjemplo2/cmake-build-debug/sobrecargaFuncionEjemplo2.cbp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sobrecargaFuncionEjemplo2/cmake-build-debug/sobrecargaFuncionEjemplo2.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sobrecargaFuncionEjemplo2/main.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sobrecarga_Complejo/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sobrecarga_Complejo/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sobrecarga_Complejo/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sobrecarga_Complejo/.idea/sobrecarga_Complejo.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sobrecarga_Complejo/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sobrecarga_Complejo/Complejo.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sobrecarga_Complejo/Complejo.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sobrecarga_Complejo/Tipos.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sobrecarga_Complejo/cmake-build-debug/CMakeCache.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sobrecarga_Complejo/cmake-build-debug/CMakeFiles/3.15.3/CMakeCCompiler.cmake" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sobrecarga_Complejo/cmake-build-debug/CMakeFiles/3.15.3/CMakeCXXCompiler.cmake" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sobrecarga_Complejo/cmake-build-debug/CMakeFiles/3.15.3/CMakeDetermineCompilerABI_C.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sobrecarga_Complejo/cmake-build-debug/CMakeFiles/3.15.3/CMakeDetermineCompilerABI_CXX.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sobrecarga_Complejo/cmake-build-debug/CMakeFiles/3.15.3/CMakeRCCompiler.cmake" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sobrecarga_Complejo/cmake-build-debug/CMakeFiles/3.15.3/CMakeSystem.cmake" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sobrecarga_Complejo/cmake-build-debug/CMakeFiles/3.15.3/CompilerIdC/CMakeCCompilerId.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sobrecarga_Complejo/cmake-build-debug/CMakeFiles/3.15.3/CompilerIdC/a.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sobrecarga_Complejo/cmake-build-debug/CMakeFiles/3.15.3/CompilerIdCXX/CMakeCXXCompilerId.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sobrecarga_Complejo/cmake-build-debug/CMakeFiles/3.15.3/CompilerIdCXX/a.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sobrecarga_Complejo/cmake-build-debug/CMakeFiles/CMakeDirectoryInformation.cmake" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sobrecarga_Complejo/cmake-build-debug/CMakeFiles/CMakeOutput.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sobrecarga_Complejo/cmake-build-debug/CMakeFiles/Makefile.cmake" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sobrecarga_Complejo/cmake-build-debug/CMakeFiles/Makefile2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sobrecarga_Complejo/cmake-build-debug/CMakeFiles/TargetDirectories.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sobrecarga_Complejo/cmake-build-debug/CMakeFiles/clion-environment.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sobrecarga_Complejo/cmake-build-debug/CMakeFiles/clion-log.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sobrecarga_Complejo/cmake-build-debug/CMakeFiles/cmake.check_cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sobrecarga_Complejo/cmake-build-debug/CMakeFiles/progress.marks" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sobrecarga_Complejo/cmake-build-debug/CMakeFiles/sobrecarga_Complejo.dir/CXX.includecache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sobrecarga_Complejo/cmake-build-debug/CMakeFiles/sobrecarga_Complejo.dir/Complejo.cpp.obj" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sobrecarga_Complejo/cmake-build-debug/CMakeFiles/sobrecarga_Complejo.dir/DependInfo.cmake" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sobrecarga_Complejo/cmake-build-debug/CMakeFiles/sobrecarga_Complejo.dir/build.make" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sobrecarga_Complejo/cmake-build-debug/CMakeFiles/sobrecarga_Complejo.dir/cmake_clean.cmake" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sobrecarga_Complejo/cmake-build-debug/CMakeFiles/sobrecarga_Complejo.dir/depend.internal" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sobrecarga_Complejo/cmake-build-debug/CMakeFiles/sobrecarga_Complejo.dir/depend.make" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sobrecarga_Complejo/cmake-build-debug/CMakeFiles/sobrecarga_Complejo.dir/flags.make" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sobrecarga_Complejo/cmake-build-debug/CMakeFiles/sobrecarga_Complejo.dir/link.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sobrecarga_Complejo/cmake-build-debug/CMakeFiles/sobrecarga_Complejo.dir/linklibs.rsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sobrecarga_Complejo/cmake-build-debug/CMakeFiles/sobrecarga_Complejo.dir/main.cpp.obj" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sobrecarga_Complejo/cmake-build-debug/CMakeFiles/sobrecarga_Complejo.dir/objects.a" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sobrecarga_Complejo/cmake-build-debug/CMakeFiles/sobrecarga_Complejo.dir/objects1.rsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sobrecarga_Complejo/cmake-build-debug/CMakeFiles/sobrecarga_Complejo.dir/progress.make" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sobrecarga_Complejo/cmake-build-debug/Makefile" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sobrecarga_Complejo/cmake-build-debug/cmake_install.cmake" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sobrecarga_Complejo/cmake-build-debug/sobrecarga_Complejo.cbp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sobrecarga_Complejo/cmake-build-debug/sobrecarga_Complejo.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sobrecarga_caja/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sobrecarga_caja/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sobrecarga_caja/.idea/sobrecarga_caja.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sobrecarga_caja/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sobrecarga_caja/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sobrecarga_caja/CMakeLists.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sobrecarga_caja/cmake-build-debug/CMakeCache.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sobrecarga_caja/cmake-build-debug/CMakeFiles/3.15.3/CMakeCCompiler.cmake" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sobrecarga_caja/cmake-build-debug/CMakeFiles/3.15.3/CMakeCXXCompiler.cmake" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sobrecarga_caja/cmake-build-debug/CMakeFiles/3.15.3/CMakeDetermineCompilerABI_C.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sobrecarga_caja/cmake-build-debug/CMakeFiles/3.15.3/CMakeDetermineCompilerABI_CXX.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sobrecarga_caja/cmake-build-debug/CMakeFiles/3.15.3/CMakeRCCompiler.cmake" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sobrecarga_caja/cmake-build-debug/CMakeFiles/3.15.3/CMakeSystem.cmake" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sobrecarga_caja/cmake-build-debug/CMakeFiles/3.15.3/CompilerIdC/CMakeCCompilerId.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sobrecarga_caja/cmake-build-debug/CMakeFiles/3.15.3/CompilerIdC/a.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sobrecarga_caja/cmake-build-debug/CMakeFiles/3.15.3/CompilerIdCXX/CMakeCXXCompilerId.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sobrecarga_caja/cmake-build-debug/CMakeFiles/3.15.3/CompilerIdCXX/a.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sobrecarga_caja/cmake-build-debug/CMakeFiles/CMakeDirectoryInformation.cmake" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sobrecarga_caja/cmake-build-debug/CMakeFiles/CMakeOutput.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sobrecarga_caja/cmake-build-debug/CMakeFiles/Makefile.cmake" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sobrecarga_caja/cmake-build-debug/CMakeFiles/Makefile2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sobrecarga_caja/cmake-build-debug/CMakeFiles/Progress/1" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sobrecarga_caja/cmake-build-debug/CMakeFiles/Progress/count.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sobrecarga_caja/cmake-build-debug/CMakeFiles/TargetDirectories.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sobrecarga_caja/cmake-build-debug/CMakeFiles/clion-environment.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sobrecarga_caja/cmake-build-debug/CMakeFiles/clion-log.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sobrecarga_caja/cmake-build-debug/CMakeFiles/cmake.check_cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sobrecarga_caja/cmake-build-debug/CMakeFiles/progress.marks" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sobrecarga_caja/cmake-build-debug/CMakeFiles/sobrecarga_caja.dir/CXX.includecache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sobrecarga_caja/cmake-build-debug/CMakeFiles/sobrecarga_caja.dir/DependInfo.cmake" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sobrecarga_caja/cmake-build-debug/CMakeFiles/sobrecarga_caja.dir/build.make" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sobrecarga_caja/cmake-build-debug/CMakeFiles/sobrecarga_caja.dir/cmake_clean.cmake" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sobrecarga_caja/cmake-build-debug/CMakeFiles/sobrecarga_caja.dir/depend.internal" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sobrecarga_caja/cmake-build-debug/CMakeFiles/sobrecarga_caja.dir/depend.make" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sobrecarga_caja/cmake-build-debug/CMakeFiles/sobrecarga_caja.dir/flags.make" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sobrecarga_caja/cmake-build-debug/CMakeFiles/sobrecarga_caja.dir/link.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sobrecarga_caja/cmake-build-debug/CMakeFiles/sobrecarga_caja.dir/linklibs.rsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sobrecarga_caja/cmake-build-debug/CMakeFiles/sobrecarga_caja.dir/objects.a" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sobrecarga_caja/cmake-build-debug/CMakeFiles/sobrecarga_caja.dir/objects1.rsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sobrecarga_caja/cmake-build-debug/CMakeFiles/sobrecarga_caja.dir/progress.make" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sobrecarga_caja/cmake-build-debug/Makefile" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sobrecarga_caja/cmake-build-debug/cmake_install.cmake" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sobrecarga_caja/cmake-build-debug/sobrecarga_caja.cbp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sobrecarga_caja/cmake-build-debug/sobrecarga_caja.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sobrecarga_caja/main.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sobrecarga_caja_friend/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sobrecarga_caja_friend/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sobrecarga_caja_friend/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sobrecarga_caja_friend/.idea/sobrecarga_caja_friend.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sobrecarga_caja_friend/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sobrecarga_caja_friend/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sobrecarga_caja_friend/CMakeLists.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sobrecarga_caja_friend/cmake-build-debug/CMakeCache.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sobrecarga_caja_friend/cmake-build-debug/CMakeFiles/3.15.3/CMakeCCompiler.cmake" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sobrecarga_caja_friend/cmake-build-debug/CMakeFiles/3.15.3/CMakeCXXCompiler.cmake" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sobrecarga_caja_friend/cmake-build-debug/CMakeFiles/3.15.3/CMakeDetermineCompilerABI_C.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sobrecarga_caja_friend/cmake-build-debug/CMakeFiles/3.15.3/CMakeDetermineCompilerABI_CXX.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sobrecarga_caja_friend/cmake-build-debug/CMakeFiles/3.15.3/CMakeRCCompiler.cmake" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sobrecarga_caja_friend/cmake-build-debug/CMakeFiles/3.15.3/CMakeSystem.cmake" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sobrecarga_caja_friend/cmake-build-debug/CMakeFiles/3.15.3/CompilerIdC/CMakeCCompilerId.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sobrecarga_caja_friend/cmake-build-debug/CMakeFiles/3.15.3/CompilerIdC/a.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sobrecarga_caja_friend/cmake-build-debug/CMakeFiles/3.15.3/CompilerIdCXX/CMakeCXXCompilerId.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sobrecarga_caja_friend/cmake-build-debug/CMakeFiles/3.15.3/CompilerIdCXX/a.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sobrecarga_caja_friend/cmake-build-debug/CMakeFiles/CMakeDirectoryInformation.cmake" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sobrecarga_caja_friend/cmake-build-debug/CMakeFiles/CMakeOutput.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sobrecarga_caja_friend/cmake-build-debug/CMakeFiles/Makefile.cmake" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sobrecarga_caja_friend/cmake-build-debug/CMakeFiles/Makefile2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sobrecarga_caja_friend/cmake-build-debug/CMakeFiles/TargetDirectories.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sobrecarga_caja_friend/cmake-build-debug/CMakeFiles/clion-environment.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sobrecarga_caja_friend/cmake-build-debug/CMakeFiles/clion-log.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sobrecarga_caja_friend/cmake-build-debug/CMakeFiles/cmake.check_cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sobrecarga_caja_friend/cmake-build-debug/CMakeFiles/progress.marks" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sobrecarga_caja_friend/cmake-build-debug/CMakeFiles/sobrecarga_caja_friend.dir/CXX.includecache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sobrecarga_caja_friend/cmake-build-debug/CMakeFiles/sobrecarga_caja_friend.dir/DependInfo.cmake" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sobrecarga_caja_friend/cmake-build-debug/CMakeFiles/sobrecarga_caja_friend.dir/build.make" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sobrecarga_caja_friend/cmake-build-debug/CMakeFiles/sobrecarga_caja_friend.dir/cmake_clean.cmake" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sobrecarga_caja_friend/cmake-build-debug/CMakeFiles/sobrecarga_caja_friend.dir/depend.internal" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sobrecarga_caja_friend/cmake-build-debug/CMakeFiles/sobrecarga_caja_friend.dir/depend.make" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sobrecarga_caja_friend/cmake-build-debug/CMakeFiles/sobrecarga_caja_friend.dir/flags.make" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sobrecarga_caja_friend/cmake-build-debug/CMakeFiles/sobrecarga_caja_friend.dir/link.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sobrecarga_caja_friend/cmake-build-debug/CMakeFiles/sobrecarga_caja_friend.dir/linklibs.rsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sobrecarga_caja_friend/cmake-build-debug/CMakeFiles/sobrecarga_caja_friend.dir/main.cpp.obj" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sobrecarga_caja_friend/cmake-build-debug/CMakeFiles/sobrecarga_caja_friend.dir/objects.a" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sobrecarga_caja_friend/cmake-build-debug/CMakeFiles/sobrecarga_caja_friend.dir/objects1.rsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sobrecarga_caja_friend/cmake-build-debug/CMakeFiles/sobrecarga_caja_friend.dir/progress.make" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sobrecarga_caja_friend/cmake-build-debug/Makefile" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sobrecarga_caja_friend/cmake-build-debug/cmake_install.cmake" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sobrecarga_caja_friend/cmake-build-debug/sobrecarga_caja_friend.cbp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sobrecarga_caja_friend/cmake-build-debug/sobrecarga_caja_friend.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sobrecarga_caja_friend/main.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sobrecargaoperadorlogico/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sobrecargaoperadorlogico/.idea/sobrecargaoperadorlogico.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sobrecargaoperadorlogico/cmake-build-debug/CMakeCache.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sobrecargaoperadorlogico/cmake-build-debug/CMakeFiles/3.15.3/CMakeCCompiler.cmake" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sobrecargaoperadorlogico/cmake-build-debug/CMakeFiles/3.15.3/CMakeCXXCompiler.cmake" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sobrecargaoperadorlogico/cmake-build-debug/CMakeFiles/3.15.3/CMakeDetermineCompilerABI_C.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sobrecargaoperadorlogico/cmake-build-debug/CMakeFiles/3.15.3/CMakeDetermineCompilerABI_CXX.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sobrecargaoperadorlogico/cmake-build-debug/CMakeFiles/3.15.3/CMakeRCCompiler.cmake" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sobrecargaoperadorlogico/cmake-build-debug/CMakeFiles/3.15.3/CMakeSystem.cmake" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sobrecargaoperadorlogico/cmake-build-debug/CMakeFiles/3.15.3/CompilerIdC/CMakeCCompilerId.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sobrecargaoperadorlogico/cmake-build-debug/CMakeFiles/3.15.3/CompilerIdC/a.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sobrecargaoperadorlogico/cmake-build-debug/CMakeFiles/3.15.3/CompilerIdCXX/CMakeCXXCompilerId.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sobrecargaoperadorlogico/cmake-build-debug/CMakeFiles/3.15.3/CompilerIdCXX/a.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sobrecargaoperadorlogico/cmake-build-debug/CMakeFiles/CMakeDirectoryInformation.cmake" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sobrecargaoperadorlogico/cmake-build-debug/CMakeFiles/CMakeOutput.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sobrecargaoperadorlogico/cmake-build-debug/CMakeFiles/Makefile.cmake" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sobrecargaoperadorlogico/cmake-build-debug/CMakeFiles/Makefile2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sobrecargaoperadorlogico/cmake-build-debug/CMakeFiles/TargetDirectories.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sobrecargaoperadorlogico/cmake-build-debug/CMakeFiles/clion-environment.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sobrecargaoperadorlogico/cmake-build-debug/CMakeFiles/clion-log.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sobrecargaoperadorlogico/cmake-build-debug/CMakeFiles/cmake.check_cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sobrecargaoperadorlogico/cmake-build-debug/CMakeFiles/progress.marks" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sobrecargaoperadorlogico/cmake-build-debug/CMakeFiles/sobrecargaoperadorlogico.dir/CXX.includecache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sobrecargaoperadorlogico/cmake-build-debug/CMakeFiles/sobrecargaoperadorlogico.dir/DependInfo.cmake" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sobrecargaoperadorlogico/cmake-build-debug/CMakeFiles/sobrecargaoperadorlogico.dir/build.make" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sobrecargaoperadorlogico/cmake-build-debug/CMakeFiles/sobrecargaoperadorlogico.dir/cmake_clean.cmake" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sobrecargaoperadorlogico/cmake-build-debug/CMakeFiles/sobrecargaoperadorlogico.dir/depend.internal" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sobrecargaoperadorlogico/cmake-build-debug/CMakeFiles/sobrecargaoperadorlogico.dir/depend.make" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sobrecargaoperadorlogico/cmake-build-debug/CMakeFiles/sobrecargaoperadorlogico.dir/flags.make" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sobrecargaoperadorlogico/cmake-build-debug/CMakeFiles/sobrecargaoperadorlogico.dir/link.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sobrecargaoperadorlogico/cmake-build-debug/CMakeFiles/sobrecargaoperadorlogico.dir/linklibs.rsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sobrecargaoperadorlogico/cmake-build-debug/CMakeFiles/sobrecargaoperadorlogico.dir/main.cpp.obj" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sobrecargaoperadorlogico/cmake-build-debug/CMakeFiles/sobrecargaoperadorlogico.dir/objects.a" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sobrecargaoperadorlogico/cmake-build-debug/CMakeFiles/sobrecargaoperadorlogico.dir/objects1.rsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sobrecargaoperadorlogico/cmake-build-debug/CMakeFiles/sobrecargaoperadorlogico.dir/progress.make" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sobrecargaoperadorlogico/cmake-build-debug/Makefile" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sobrecargaoperadorlogico/cmake-build-debug/cmake_install.cmake" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sobrecargaoperadorlogico/cmake-build-debug/sobrecargaoperadorlogico.cbp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sobrecargaoperadorlogico/cmake-build-debug/sobrecargaoperadorlogico.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sobrecargaoperadorsuma/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sobrecargaoperadorsuma/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sobrecargaoperadorsuma/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sobrecargaoperadorsuma/.idea/sobrecargaoperadorsuma.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sobrecargaoperadorsuma/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sobrecargaoperadorsuma/cmake-build-debug/CMakeFiles/3.15.3/CMakeSystem.cmake" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sobrecargaoperadorsuma/cmake-build-debug/CMakeFiles/3.15.3/CompilerIdC/CMakeCCompilerId.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sobrecargaoperadorsuma/cmake-build-debug/CMakeFiles/CMakeOutput.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sobrecargaoperadorsuma/cmake-build-debug/CMakeFiles/clion-environment.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sobrecargaoperadorunario/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sobrecargaoperadorunario/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sobrecargaoperadorunario/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sobrecargaoperadorunario/.idea/sobrecargaoperadorunario.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sobrecargaoperadorunario/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sobrecargaoperadorunario/cmake-build-debug/CMakeFiles/3.15.3/CMakeCCompiler.cmake" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sobrecargaoperadorunario/cmake-build-debug/CMakeFiles/3.15.3/CMakeSystem.cmake" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sobrecargaoperadorunario/cmake-build-debug/CMakeFiles/3.15.3/CompilerIdC/CMakeCCompilerId.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sobrecargaoperadorunario/cmake-build-debug/CMakeFiles/3.15.3/CompilerIdC/a.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sobrecargaoperadorunario/cmake-build-debug/CMakeFiles/3.15.3/CompilerIdCXX/CMakeCXXCompilerId.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sobrecargaoperadorunario/cmake-build-debug/CMakeFiles/3.15.3/CompilerIdCXX/a.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sobrecargaoperadorunario/cmake-build-debug/CMakeFiles/CMakeOutput.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sobrecargaoperadorunario/cmake-build-debug/CMakeFiles/clion-environment.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sobrecargav2/Tipos.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../FuncionesAmigas/CMakeLists.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../FuncionesAmigas/CMakeLists.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../FuncionesAmigas/Cuadrado.h" beforeDir="false" afterPath="$PROJECT_DIR$/../FuncionesAmigas/Cuadrado.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../FuncionesAmigas/Rectangulo.h" beforeDir="false" afterPath="$PROJECT_DIR$/../FuncionesAmigas/Rectangulo.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../FuncionesAmigas/cmake-build-debug/CMakeFiles/FuncionesAmigas.dir/CXX.includecache" beforeDir="false" afterPath="$PROJECT_DIR$/../FuncionesAmigas/cmake-build-debug/CMakeFiles/FuncionesAmigas.dir/CXX.includecache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../FuncionesAmigas/cmake-build-debug/CMakeFiles/FuncionesAmigas.dir/depend.internal" beforeDir="false" afterPath="$PROJECT_DIR$/../FuncionesAmigas/cmake-build-debug/CMakeFiles/FuncionesAmigas.dir/depend.internal" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../FuncionesAmigas/cmake-build-debug/CMakeFiles/FuncionesAmigas.dir/depend.make" beforeDir="false" afterPath="$PROJECT_DIR$/../FuncionesAmigas/cmake-build-debug/CMakeFiles/FuncionesAmigas.dir/depend.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../FuncionesAmigas/cmake-build-debug/CMakeFiles/FuncionesAmigas.dir/main.cpp.obj" beforeDir="false" afterPath="$PROJECT_DIR$/../FuncionesAmigas/cmake-build-debug/CMakeFiles/FuncionesAmigas.dir/main.cpp.obj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../FuncionesAmigas/cmake-build-debug/CMakeFiles/FuncionesAmigas.dir/objects.a" beforeDir="false" afterPath="$PROJECT_DIR$/../FuncionesAmigas/cmake-build-debug/CMakeFiles/FuncionesAmigas.dir/objects.a" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../FuncionesAmigas/cmake-build-debug/FuncionesAmigas.cbp" beforeDir="false" afterPath="$PROJECT_DIR$/../FuncionesAmigas/cmake-build-debug/FuncionesAmigas.cbp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../FuncionesAmigas/cmake-build-debug/FuncionesAmigas.exe" beforeDir="false" afterPath="$PROJECT_DIR$/../FuncionesAmigas/cmake-build-debug/FuncionesAmigas.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../FuncionesAmigas/main.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/../FuncionesAmigas/main.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SobrecargaUnario/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../SobrecargaUnario/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SobrecargaUnario/Reloj.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/../SobrecargaUnario/Reloj.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sobrecargav2/CMakeLists.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../sobrecargav2/CMakeLists.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sobrecargav2/Entero.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/../sobrecargav2/Entero.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sobrecargav2/Entero.h" beforeDir="false" afterPath="$PROJECT_DIR$/../sobrecargav2/Entero.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sobrecargav2/cmake-build-debug/CMakeFiles/sobrecargav2.dir/CXX.includecache" beforeDir="false" afterPath="$PROJECT_DIR$/../sobrecargav2/cmake-build-debug/CMakeFiles/sobrecargav2.dir/CXX.includecache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sobrecargav2/cmake-build-debug/CMakeFiles/sobrecargav2.dir/Entero.cpp.obj" beforeDir="false" afterPath="$PROJECT_DIR$/../sobrecargav2/cmake-build-debug/CMakeFiles/sobrecargav2.dir/Entero.cpp.obj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sobrecargav2/cmake-build-debug/CMakeFiles/sobrecargav2.dir/depend.internal" beforeDir="false" afterPath="$PROJECT_DIR$/../sobrecargav2/cmake-build-debug/CMakeFiles/sobrecargav2.dir/depend.internal" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sobrecargav2/cmake-build-debug/CMakeFiles/sobrecargav2.dir/depend.make" beforeDir="false" afterPath="$PROJECT_DIR$/../sobrecargav2/cmake-build-debug/CMakeFiles/sobrecargav2.dir/depend.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sobrecargav2/cmake-build-debug/CMakeFiles/sobrecargav2.dir/main.cpp.obj" beforeDir="false" afterPath="$PROJECT_DIR$/../sobrecargav2/cmake-build-debug/CMakeFiles/sobrecargav2.dir/main.cpp.obj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sobrecargav2/cmake-build-debug/CMakeFiles/sobrecargav2.dir/objects.a" beforeDir="false" afterPath="$PROJECT_DIR$/../sobrecargav2/cmake-build-debug/CMakeFiles/sobrecargav2.dir/objects.a" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sobrecargav2/cmake-build-debug/sobrecargav2.cbp" beforeDir="false" afterPath="$PROJECT_DIR$/../sobrecargav2/cmake-build-debug/sobrecargav2.cbp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sobrecargav2/cmake-build-debug/sobrecargav2.exe" beforeDir="false" afterPath="$PROJECT_DIR$/../sobrecargav2/cmake-build-debug/sobrecargav2.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sobrecargav2/main.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/../sobrecargav2/main.cpp" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ClangdSettings">
+    <option name="formatViaClangd" value="false" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="CMakeBuildProfile:Debug" />
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="IgnoredFileRootStore">
+    <option name="generatedRoots">
+      <set>
+        <option value="C:\Users\jfarfan\CLionProjects\sobrecarga\sobrecargaFuncion\.idea" />
+      </set>
+    </option>
+  </component>
+  <component name="ProjectId" id="1TlBDjohcIUImr2bm5FWGAncMpQ" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration name="sobrecargaFuncion" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="sobrecargaFuncion" TARGET_NAME="sobrecargaFuncion" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="sobrecargaFuncion" RUN_TARGET_NAME="sobrecargaFuncion">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="3a8a5adb-8c2b-4734-ba46-ab0c9ba737c1" name="Default Changelist" comment="" />
+      <created>1574024683815</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1574024683815</updated>
+      <workItem from="1574024685345" duration="1747000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
+</project>

@@ -1,0 +1,16 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/jfarfan/CLionProjects/sobrecarga/sobrecargaFuncionEjemplo/CVector.h
+
+C:/Users/jfarfan/CLionProjects/sobrecarga/sobrecargaFuncionEjemplo/main.cpp
+iostream
+-
+CVector.h
+C:/Users/jfarfan/CLionProjects/sobrecarga/sobrecargaFuncionEjemplo/CVector.h
+

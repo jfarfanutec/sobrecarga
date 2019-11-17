@@ -3,8 +3,7 @@
 //
 
 #include "Entero.h"
-
 Entero suma(Entero &x, Entero &y)
 {
-    return Entero( x.dato + y.dato);
+    return Entero( x.m_dato + y.m_dato);
 }

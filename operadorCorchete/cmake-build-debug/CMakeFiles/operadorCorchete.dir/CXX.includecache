@@ -1,0 +1,22 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/jfarfan/CLionProjects/sobrecarga/operadorCorchete/CMatrizVector.h
+CVector.h
+C:/Users/jfarfan/CLionProjects/sobrecarga/operadorCorchete/CVector.h
+
+C:/Users/jfarfan/CLionProjects/sobrecarga/operadorCorchete/CVector.h
+
+C:/Users/jfarfan/CLionProjects/sobrecarga/operadorCorchete/main.cpp
+iostream
+-
+CVector.h
+C:/Users/jfarfan/CLionProjects/sobrecarga/operadorCorchete/CVector.h
+CMatrizVector.h
+C:/Users/jfarfan/CLionProjects/sobrecarga/operadorCorchete/CMatrizVector.h
+

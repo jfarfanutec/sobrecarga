@@ -1,0 +1,3 @@
+C:/Users/jfarfan/CLionProjects/sobrecarga/sobrecargaoperadorunario/cmake-build-debug/CMakeFiles/sobrecargaoperadorunario.dir
+C:/Users/jfarfan/CLionProjects/sobrecarga/sobrecargaoperadorunario/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/jfarfan/CLionProjects/sobrecarga/sobrecargaoperadorunario/cmake-build-debug/CMakeFiles/rebuild_cache.dir

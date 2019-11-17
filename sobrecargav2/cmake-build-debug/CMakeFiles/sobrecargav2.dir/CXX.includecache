@@ -6,13 +6,13 @@
 
 #IncludeRegexTransform: 
 
-C:/Users/jfarfan/CLionProjects/sobrecarga/sobrecargav2/Entero.cpp
-Entero.h
-C:/Users/jfarfan/CLionProjects/sobrecarga/sobrecargav2/Entero.h
-
 C:/Users/jfarfan/CLionProjects/sobrecarga/sobrecargav2/Entero.h
 iostream
 -
+Tipos.h
+C:/Users/jfarfan/CLionProjects/sobrecarga/sobrecargav2/Tipos.h
+
+C:/Users/jfarfan/CLionProjects/sobrecarga/sobrecargav2/Tipos.h
 
 C:/Users/jfarfan/CLionProjects/sobrecarga/sobrecargav2/main.cpp
 iostream

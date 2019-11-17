@@ -1,18 +1,18 @@
 //
 // Created by jfarfan on 6/11/2019.
 //
-
 #include "Reloj.h"
 
 Reloj::Reloj(TipoEntero h, TipoEntero m, TipoEntero s)
-{ hora=h;
+{
+    hora=h;
     minuto=m;
     segundo=s;
 }
 
-
 void Reloj::DefineTiempo(TipoEntero h, TipoEntero m, TipoEntero s)
-{ hora=h;
+{
+    hora=h;
     minuto=m;
     segundo=s;
 }

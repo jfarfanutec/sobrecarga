@@ -6,18 +6,16 @@
 #define SOBRECARGAV2_ENTERO_H
 
 #include <iostream>
+#include "Tipos.h"
 using namespace std;
-typedef int TipoEntero ;
 class Entero {
 private:
-    TipoEntero dato;
+    TipoEntero m_dato;
 public:
     Entero() { }
-    Entero(TipoEntero _dato) { dato= _dato; }
-    int getDato() {return dato;}
-
+    Entero(TipoEntero dato) { m_dato= dato; }
+    int getDato() {return m_dato;}
     friend Entero suma(Entero& x, Entero& y);
-
 };
 
 #endif //SOBRECARGAV2_ENTERO_H

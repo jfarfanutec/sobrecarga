@@ -1,0 +1,3 @@
+C:/Users/jfarfan/CLionProjects/sobrecarga/sobrecarga_caja/cmake-build-debug/CMakeFiles/sobrecarga_caja.dir
+C:/Users/jfarfan/CLionProjects/sobrecarga/sobrecarga_caja/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/jfarfan/CLionProjects/sobrecarga/sobrecarga_caja/cmake-build-debug/CMakeFiles/rebuild_cache.dir

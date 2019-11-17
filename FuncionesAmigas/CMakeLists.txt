@@ -3,4 +3,4 @@ project(FuncionesAmigas)
 
 set(CMAKE_CXX_STANDARD 14)
 
-add_executable(FuncionesAmigas main.cpp Rectangulo.h Cuadrado.h)
+add_executable(FuncionesAmigas main.cpp Rectangulo.h Cuadrado.h Tipos.h)

@@ -3,5 +3,6 @@
 
 CMakeFiles/FuncionesAmigas.dir/main.cpp.obj: ../Cuadrado.h
 CMakeFiles/FuncionesAmigas.dir/main.cpp.obj: ../Rectangulo.h
+CMakeFiles/FuncionesAmigas.dir/main.cpp.obj: ../Tipos.h
 CMakeFiles/FuncionesAmigas.dir/main.cpp.obj: ../main.cpp
 

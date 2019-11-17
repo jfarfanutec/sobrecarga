@@ -1,0 +1,3 @@
+C:/Users/jfarfan/CLionProjects/sobrecarga/sobrecargaFuncion/cmake-build-debug/CMakeFiles/sobrecargaFuncion.dir
+C:/Users/jfarfan/CLionProjects/sobrecarga/sobrecargaFuncion/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/jfarfan/CLionProjects/sobrecarga/sobrecargaFuncion/cmake-build-debug/CMakeFiles/rebuild_cache.dir

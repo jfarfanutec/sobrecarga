@@ -86,6 +86,9 @@
 		<Unit filename="C:/Users/jfarfan/CLionProjects/sobrecarga/sobrecargav2/Entero.h">
 			<Option target="sobrecargav2"/>
 		</Unit>
+		<Unit filename="C:/Users/jfarfan/CLionProjects/sobrecarga/sobrecargav2/Tipos.h">
+			<Option target="sobrecargav2"/>
+		</Unit>
 		<Unit filename="C:/Users/jfarfan/CLionProjects/sobrecarga/sobrecargav2/main.cpp">
 			<Option target="sobrecargav2"/>
 		</Unit>

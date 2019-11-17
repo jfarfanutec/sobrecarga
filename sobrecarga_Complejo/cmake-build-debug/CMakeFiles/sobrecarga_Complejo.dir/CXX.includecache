@@ -1,0 +1,28 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/jfarfan/CLionProjects/sobrecarga/sobrecarga_Complejo/Complejo.cpp
+Complejo.h
+C:/Users/jfarfan/CLionProjects/sobrecarga/sobrecarga_Complejo/Complejo.h
+math.h
+-
+
+C:/Users/jfarfan/CLionProjects/sobrecarga/sobrecarga_Complejo/Complejo.h
+iostream
+-
+Tipos.h
+C:/Users/jfarfan/CLionProjects/sobrecarga/sobrecarga_Complejo/Tipos.h
+
+C:/Users/jfarfan/CLionProjects/sobrecarga/sobrecarga_Complejo/Tipos.h
+
+C:/Users/jfarfan/CLionProjects/sobrecarga/sobrecarga_Complejo/main.cpp
+iostream
+-
+Complejo.h
+C:/Users/jfarfan/CLionProjects/sobrecarga/sobrecarga_Complejo/Complejo.h
+

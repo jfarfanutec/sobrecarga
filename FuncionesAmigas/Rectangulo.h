@@ -5,16 +5,16 @@
 #ifndef FUNCIONESAMIGAS_RECTANGULO_H
 #define FUNCIONESAMIGAS_RECTANGULO_H
 
+#include "tipos.h"
 class Rectangulo
 {
 private:
-    int largo;
-    int ancho;
-
+    TipoEntero m_largo;
+    TipoEntero m_ancho;
 public:
     Rectangulo() {
-        largo=10;
-        ancho=20;
+        m_largo=10;
+        m_ancho=20;
     }
 
     friend class Cuadrado;        //Se declara la clase amiga(friend)

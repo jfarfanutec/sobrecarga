@@ -4,21 +4,23 @@
 
 #ifndef FUNCIONESAMIGAS_CUADRADO_H
 #define FUNCIONESAMIGAS_CUADRADO_H
+
 #include <iostream>
 #include "Rectangulo.h"
+
 using namespace std;
 class Cuadrado {
 private:
-    int lado;
+    TipoEntero m_lado;
 public:
     Cuadrado() {
-        lado=5;
+        m_lado=5;
     }
-    void mostrar(Rectangulo Rect)
+    void mostrar(ostream &os,Rectangulo Rect)
     {
-        cout<<"\nLargo : "<<Rect.largo;   //Puede acceder a los atributos privados de la clase Rectangulo
-        cout<<"\nAncho : "<<Rect.ancho;
-        cout<<"\nLado : "<<lado;
+        os <<"\nLargo : "<<Rect.m_largo;   //Puede acceder a los atributos privados de la clase Rectangulo
+        os <<"\nAncho : "<<Rect.m_ancho;
+        os <<"\nLado : "<<m_lado;
     }
 };
 

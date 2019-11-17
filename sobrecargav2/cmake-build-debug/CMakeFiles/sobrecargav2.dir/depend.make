@@ -3,7 +3,9 @@
 
 CMakeFiles/sobrecargav2.dir/Entero.cpp.obj: ../Entero.cpp
 CMakeFiles/sobrecargav2.dir/Entero.cpp.obj: ../Entero.h
+CMakeFiles/sobrecargav2.dir/Entero.cpp.obj: ../Tipos.h
 
 CMakeFiles/sobrecargav2.dir/main.cpp.obj: ../Entero.h
+CMakeFiles/sobrecargav2.dir/main.cpp.obj: ../Tipos.h
 CMakeFiles/sobrecargav2.dir/main.cpp.obj: ../main.cpp
 
