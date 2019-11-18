@@ -60,16 +60,16 @@ public:
     operator double ();
 
     /** Devuelve X */
-    TipoDoble dameX() const;
+    TipoDoble getX() const { return m_x; }
 
     /** Devuelve Y */
-    TipoDoble dameY() const;
+    TipoDoble getY() const { return m_y; }
 
     /** Devuelve X */
-    TipoDoble tomaX(TipoDoble valor);
+    TipoDoble setX(TipoDoble valor) { m_x = valor; }
 
     /** Devuelve Y */
-    TipoDoble tomaY(TipoDoble valor);
+    TipoDoble setY(TipoDoble valor) { m_y = valor; }
 };
 
 

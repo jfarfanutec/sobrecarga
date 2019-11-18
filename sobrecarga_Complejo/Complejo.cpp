@@ -88,24 +88,9 @@ CComplejo::operator TipoDoble () {
 
 /******************* OTROS MÉTODOS DE LA CLASE ********************/
 
-/** Devuelve X */
+/** Devuelve X
 TipoDoble CComplejo::dameX () const {
     return m_x;
-}
-
-/** Devuelve Y */
-TipoDoble CComplejo::dameY () const {
-    return m_y;
-}
-
-/** Asigna X */
-TipoDoble CComplejo::tomaX (TipoDoble valor) {
-    m_x = valor;
-}
-
-/** Asigna Y */
-TipoDoble CComplejo::tomaY (TipoDoble valor) {
-    m_y = valor;
 }
 
 /***********************************************************************
@@ -121,11 +106,11 @@ ostream &operator << (ostream &salida, const CComplejo &origen) {
 
     // Si la y es negativa, no se pone signo, ya que al escribir la y ya sale un signo
     // negativo.
-    if (origen.dameY() < 0.0)
+    if (origen.getY() < 0.0)
         signo = 0;
 
     // Se escriben los campos separados por el signo
-    cout << origen.dameX() << signo << origen.dameY() << "j";
+    cout << origen.getX() << signo << origen.getY() << "j";
 }
 
 /* operador global << para escribir array de doubles en pantalla. */
@@ -144,8 +129,7 @@ ostream &operator << (ostream &salida, const TipoDoble origen[]) {
 
 /********************* OPERADORES SUMA EXTERNOS **********************************/
 
-/* operador global + para sumar array de doubles con CComplejo.
- * Devuelve un CComplejo para poder encadenar sumas a+b+c+d */
+/* operador global + para sumar array de doubles con CComplejo. * Devuelve un CComplejo para poder encadenar sumas a+b+c+d */
 CComplejo operator + (const TipoDoble sum1[], const CComplejo &sum2) {
     CComplejo aux;
     aux = sum2 + sum1;

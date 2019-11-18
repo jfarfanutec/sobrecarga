@@ -3,4 +3,4 @@ project(operadorCorchete)
 
 set(CMAKE_CXX_STANDARD 14)
 
-add_executable(operadorCorchete main.cpp CVector.h CMatrizVector.h)
+add_executable(operadorCorchete main.cpp CVector.h CMatrizVector.h Tipos.h)

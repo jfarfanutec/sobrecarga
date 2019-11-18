@@ -3,5 +3,6 @@
 
 CMakeFiles/operadorCorchete.dir/main.cpp.obj: ../CMatrizVector.h
 CMakeFiles/operadorCorchete.dir/main.cpp.obj: ../CVector.h
+CMakeFiles/operadorCorchete.dir/main.cpp.obj: ../Tipos.h
 CMakeFiles/operadorCorchete.dir/main.cpp.obj: ../main.cpp
 

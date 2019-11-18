@@ -80,6 +80,12 @@
 				</MakeCommands>
 			</Target>
 		</Build>
+		<Unit filename="C:/Users/jfarfan/CLionProjects/sobrecarga/sobrecargaFuncion/CVector.h">
+			<Option target="sobrecargaFuncion"/>
+		</Unit>
+		<Unit filename="C:/Users/jfarfan/CLionProjects/sobrecarga/sobrecargaFuncion/Tipos.h">
+			<Option target="sobrecargaFuncion"/>
+		</Unit>
 		<Unit filename="C:/Users/jfarfan/CLionProjects/sobrecarga/sobrecargaFuncion/main.cpp">
 			<Option target="sobrecargaFuncion"/>
 		</Unit>

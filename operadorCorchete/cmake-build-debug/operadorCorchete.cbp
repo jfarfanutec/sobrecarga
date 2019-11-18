@@ -86,6 +86,9 @@
 		<Unit filename="C:/Users/jfarfan/CLionProjects/sobrecarga/operadorCorchete/CVector.h">
 			<Option target="operadorCorchete"/>
 		</Unit>
+		<Unit filename="C:/Users/jfarfan/CLionProjects/sobrecarga/operadorCorchete/Tipos.h">
+			<Option target="operadorCorchete"/>
+		</Unit>
 		<Unit filename="C:/Users/jfarfan/CLionProjects/sobrecarga/operadorCorchete/main.cpp">
 			<Option target="operadorCorchete"/>
 		</Unit>

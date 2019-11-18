@@ -3,4 +3,4 @@ project(sobrecargaFuncion)
 
 set(CMAKE_CXX_STANDARD 14)
 
-add_executable(sobrecargaFuncion main.cpp)
+add_executable(sobrecargaFuncion main.cpp Tipos.h CVector.h)
