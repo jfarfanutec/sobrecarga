@@ -48,7 +48,6 @@ CComplejo CComplejo::operator + (TipoDoble sum) const {
     CComplejo aux(*this);
     aux.m_x = m_x + sum;
     return aux;
-    //return  CComplejo(m_x + sum);
 }
 
 /** operador suma para array de doubles. Devuelve CComplejo para poder concatenar sumas */
@@ -62,10 +61,6 @@ CComplejo CComplejo::operator + (const TipoDoble sum[]) {
 
 /** operador suma para otro CComplejo. Devuelve CComplejo para poder concatenar sumas */
 CComplejo CComplejo::operator + (const CComplejo &sum) const {
-    //CComplejo aux;
-    //aux.m_x = m_x + sum.m_x;
-    //aux.m_y = m_y + sum.m_y;
-    //return aux;
     return CComplejo(m_x + sum.m_x,m_y + sum.m_y);
 }
 
@@ -77,7 +72,6 @@ CComplejo &CComplejo::operator = (const TipoDoble origen[]) {
     m_x = origen[0];
     m_y = origen[1];
     return *this;
-    //return (CComplejo).CComplejo(origen[0],origen[1]);
 }
 
 /** operador = para otro CComplejo. Devuelve CComplejo para poder concatenar

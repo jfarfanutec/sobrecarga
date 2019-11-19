@@ -49,7 +49,6 @@ public:
     /** Operador suma para un double. Suma el double recibido en x */
     CComplejo operator + (TipoDoble sum) const;
 
-
     /** Operador suma para un array de doubles. Suma el primer double del array en
      * x y el segundo en y */
     CComplejo operator + (const TipoDoble sum[]);

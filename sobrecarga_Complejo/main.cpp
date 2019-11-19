@@ -10,38 +10,38 @@ int main() {
 
     // Se realizan varios tipos de sumas, escribiendo en pantalla los resultados.
 
-    //   ComplejoC operator + (double sum);
+    //   CComplejo operator + (double sum);
     //   1-j + 1  da 2-j
     cout << complejoA << " + " << 1 << " = ";
     cout << complejoA + 1.0 << endl;
 
-    //   ComplejoC operator + (double sum[]);
+    //   CComplejo operator + (double sum[]);
     //   1-j + 1-j da 2-2j
     cout << complejoA << " + " << c1 << " = ";
     cout << complejoA + c1 << endl;
 
-    //   ComplejoC operator + (ComplejoC sum);
+    //   CComplejo operator + (CComplejo sum);
     //   1-j + 0+0j da 1-j
     cout << complejoA << " + " << complejoB << " = ";
     cout << complejoA + complejoB << endl;
 
-    // ComplejoC operator + (double k, ComplejoC &origen);
+    // CComplejo operator + (double k, CComplejo &origen);
     // 1 + 1-j + 1-j + -1+j + 0+0j da 2-j
     cout << 1 << " + " << complejoA << " + " << c1 << " + " << c2 << " + " << complejoB \
       << " = ";
     cout << 1.0 + complejoA + c1 + c2 + complejoB << endl;
 
-    // ComplejoC operator + (double sum1[], ComplejoC &sum2);
+    // CComplejo operator + (double sum1[], CComplejo &sum2);
     // -1+j + 1-j da 0+0j
     cout << c2 << " + " << complejoA << " = ";
     cout << c2 + complejoA << endl;
 
-    // ComplejoC operator double
+    // CComplejo operator double
     // El módulo de 1-j es 1.4142 (raiz de 2)
     cout << "|" << complejoA << "| = ";
     cout << (TipoDoble)complejoA << endl;
 
-    // cast de double a ComplejoC
+    // cast de double a CComplejo
     // Debe dar 2.3+0j
     cout << (CComplejo)2.3 << endl;
 
