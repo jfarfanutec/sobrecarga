@@ -10,13 +10,17 @@ using namespace std;
 class Vector {
 public:
     TipoEntero m_x, m_y;
+
+    Vector() {}
+    Vector(TipoEntero x, TipoEntero y) {
+        m_x = x;
+        m_y = y;
+    }
     Vector& operator= (const Vector& v) { // asignación V = V
         m_x = v.m_x;   m_y = v.m_y;   return *this;
     }
     Vector operator* (TipoEntero i) {       //  Producto V * int
-        Vector vr;
-        vr.m_x = m_x * i;   vr.m_y = m_y * i;
-        return vr;
+        return Vector(m_x*i, m_y*i);
     }
     void showV(ostream &os);
     friend Vector operator* (TipoEntero, Vector); //  Producto int * V

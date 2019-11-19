@@ -8,7 +8,7 @@
 #include "CVector.h"
 #include "Tipos.h"
 using namespace std;
-class mVector {    // definición de clase mVector
+class mVector {    // definición de clase mVector (matriz)
     TipoEntero m_dimension;
 public:
     Vector* mVptr;
@@ -27,9 +27,7 @@ void mVector::showmem (ostream &os,int i) {
         os << "Argumento incorrecto! pruebe otra vez" << endl;
 }
 Vector operator* (TipoEntero i, Vector v) {
-    Vector vr;
-    vr.m_x = v.m_x * i;    vr.m_y = v.m_y * i;
-    return vr;
+    return Vector(v.m_x*i, v.m_y*i);
 }
 
 #endif //OPERADORCORCHETE_CMATRIZVECTOR_H

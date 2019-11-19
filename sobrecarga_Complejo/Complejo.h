@@ -36,6 +36,7 @@ public:
 
     /** Constructor con un double. Lo pone en la parte real x */
     CComplejo (TipoDoble valor);
+    CComplejo (TipoDoble valor1,TipoDoble valor2);
 
     /** Operador igual para array de doubles. Mete el primer double del array
      * en x y el segundo en y */
@@ -47,6 +48,7 @@ public:
 
     /** Operador suma para un double. Suma el double recibido en x */
     CComplejo operator + (TipoDoble sum) const;
+
 
     /** Operador suma para un array de doubles. Suma el primer double del array en
      * x y el segundo en y */

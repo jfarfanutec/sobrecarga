@@ -12,45 +12,16 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="3a8a5adb-8c2b-4734-ba46-ab0c9ba737c1" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../operadorCorchete/Tipos.h" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CVector.h" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Tipos.h" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../SobrecargaOperadoresV1/cmake-build-debug/CMakeFiles/SobrecargaOperadoresV1.dir/main.cpp.obj" beforeDir="false" afterPath="$PROJECT_DIR$/../SobrecargaOperadoresV1/cmake-build-debug/CMakeFiles/SobrecargaOperadoresV1.dir/main.cpp.obj" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../SobrecargaOperadoresV1/cmake-build-debug/CMakeFiles/SobrecargaOperadoresV1.dir/objects.a" beforeDir="false" afterPath="$PROJECT_DIR$/../SobrecargaOperadoresV1/cmake-build-debug/CMakeFiles/SobrecargaOperadoresV1.dir/objects.a" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../SobrecargaOperadoresV1/cmake-build-debug/SobrecargaOperadoresV1.exe" beforeDir="false" afterPath="$PROJECT_DIR$/../SobrecargaOperadoresV1/cmake-build-debug/SobrecargaOperadoresV1.exe" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../SobrecargaUnario/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../SobrecargaUnario/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../operadorCorchete/CMakeLists.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../operadorCorchete/CMakeLists.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../operadorCorchete/CMatrizVector.h" beforeDir="false" afterPath="$PROJECT_DIR$/../operadorCorchete/CMatrizVector.h" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../operadorCorchete/CVector.h" beforeDir="false" afterPath="$PROJECT_DIR$/../operadorCorchete/CVector.h" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../operadorCorchete/cmake-build-debug/CMakeFiles/operadorCorchete.dir/CXX.includecache" beforeDir="false" afterPath="$PROJECT_DIR$/../operadorCorchete/cmake-build-debug/CMakeFiles/operadorCorchete.dir/CXX.includecache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../operadorCorchete/cmake-build-debug/CMakeFiles/operadorCorchete.dir/depend.internal" beforeDir="false" afterPath="$PROJECT_DIR$/../operadorCorchete/cmake-build-debug/CMakeFiles/operadorCorchete.dir/depend.internal" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../operadorCorchete/cmake-build-debug/CMakeFiles/operadorCorchete.dir/depend.make" beforeDir="false" afterPath="$PROJECT_DIR$/../operadorCorchete/cmake-build-debug/CMakeFiles/operadorCorchete.dir/depend.make" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../operadorCorchete/cmake-build-debug/CMakeFiles/operadorCorchete.dir/main.cpp.obj" beforeDir="false" afterPath="$PROJECT_DIR$/../operadorCorchete/cmake-build-debug/CMakeFiles/operadorCorchete.dir/main.cpp.obj" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../operadorCorchete/cmake-build-debug/CMakeFiles/operadorCorchete.dir/objects.a" beforeDir="false" afterPath="$PROJECT_DIR$/../operadorCorchete/cmake-build-debug/CMakeFiles/operadorCorchete.dir/objects.a" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../operadorCorchete/cmake-build-debug/operadorCorchete.cbp" beforeDir="false" afterPath="$PROJECT_DIR$/../operadorCorchete/cmake-build-debug/operadorCorchete.cbp" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../operadorCorchete/cmake-build-debug/operadorCorchete.exe" beforeDir="false" afterPath="$PROJECT_DIR$/../operadorCorchete/cmake-build-debug/operadorCorchete.exe" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../operadorCorchete/main.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/../operadorCorchete/main.cpp" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CMakeLists.txt" beforeDir="false" afterPath="$PROJECT_DIR$/CMakeLists.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Makefile.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Makefile.cmake" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/clion-log.txt" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/clion-log.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/sobrecargaFuncion.dir/CXX.includecache" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/sobrecargaFuncion.dir/CXX.includecache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/sobrecargaFuncion.dir/depend.internal" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/sobrecargaFuncion.dir/depend.internal" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/sobrecargaFuncion.dir/depend.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/sobrecargaFuncion.dir/depend.make" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/sobrecargaFuncion.dir/main.cpp.obj" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/sobrecargaFuncion.dir/main.cpp.obj" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/sobrecargaFuncion.dir/objects.a" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/sobrecargaFuncion.dir/objects.a" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/sobrecargaFuncion.cbp" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/sobrecargaFuncion.cbp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/sobrecargaFuncion.exe" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/sobrecargaFuncion.exe" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/main.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/main.cpp" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../sobrecarga_Complejo/Complejo.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/../sobrecarga_Complejo/Complejo.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../sobrecarga_Complejo/Complejo.h" beforeDir="false" afterPath="$PROJECT_DIR$/../sobrecarga_Complejo/Complejo.h" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../sobrecarga_Complejo/cmake-build-debug/CMakeFiles/sobrecarga_Complejo.dir/CXX.includecache" beforeDir="false" afterPath="$PROJECT_DIR$/../sobrecarga_Complejo/cmake-build-debug/CMakeFiles/sobrecarga_Complejo.dir/CXX.includecache" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../sobrecarga_Complejo/cmake-build-debug/CMakeFiles/sobrecarga_Complejo.dir/Complejo.cpp.obj" beforeDir="false" afterPath="$PROJECT_DIR$/../sobrecarga_Complejo/cmake-build-debug/CMakeFiles/sobrecarga_Complejo.dir/Complejo.cpp.obj" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../sobrecarga_Complejo/cmake-build-debug/CMakeFiles/sobrecarga_Complejo.dir/main.cpp.obj" beforeDir="false" afterPath="$PROJECT_DIR$/../sobrecarga_Complejo/cmake-build-debug/CMakeFiles/sobrecarga_Complejo.dir/main.cpp.obj" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../sobrecarga_Complejo/cmake-build-debug/CMakeFiles/sobrecarga_Complejo.dir/objects.a" beforeDir="false" afterPath="$PROJECT_DIR$/../sobrecarga_Complejo/cmake-build-debug/CMakeFiles/sobrecarga_Complejo.dir/objects.a" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../sobrecarga_Complejo/cmake-build-debug/sobrecarga_Complejo.exe" beforeDir="false" afterPath="$PROJECT_DIR$/../sobrecarga_Complejo/cmake-build-debug/sobrecarga_Complejo.exe" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../sobrecarga_caja/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../sobrecarga_caja/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../sobrecarga_caja_friend/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../sobrecarga_caja_friend/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -118,7 +89,7 @@
       <workItem from="1574024685345" duration="1747000" />
       <workItem from="1574107352661" duration="617000" />
       <workItem from="1574109447728" duration="25000" />
-      <workItem from="1574112200087" duration="1107000" />
+      <workItem from="1574112200087" duration="3054000" />
     </task>
     <servers />
   </component>

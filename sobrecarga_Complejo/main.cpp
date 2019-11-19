@@ -13,7 +13,7 @@ int main() {
     //   ComplejoC operator + (double sum);
     //   1-j + 1  da 2-j
     cout << complejoA << " + " << 1 << " = ";
-    cout << complejoA + 1 << endl;
+    cout << complejoA + 1.0 << endl;
 
     //   ComplejoC operator + (double sum[]);
     //   1-j + 1-j da 2-2j
@@ -29,7 +29,7 @@ int main() {
     // 1 + 1-j + 1-j + -1+j + 0+0j da 2-j
     cout << 1 << " + " << complejoA << " + " << c1 << " + " << c2 << " + " << complejoB \
       << " = ";
-    cout << 1 + complejoA + c1 + c2 + complejoB << endl;
+    cout << 1.0 + complejoA + c1 + c2 + complejoB << endl;
 
     // ComplejoC operator + (double sum1[], ComplejoC &sum2);
     // -1+j + 1-j da 0+0j
